@@ -58,7 +58,7 @@ Note:- This is a basic Project so we have not think about the security and we ha
 Forked project written in eclipse. My goal is to learn all required Spring modules(e.g Spring Security) and rewrite project in intelliJ, using controller, service and repository beans. 
 
 ### TODO:
-[] Learn <a href="https://github.com/nowakpawel/SpringSecurity" target="_blank">Spring Security</a>
-[] Create model(s
-[] create h2 database connection with adequate table(s)
+- [ ] Learn <a href="https://github.com/nowakpawel/SpringSecurity" target="_blank">Spring Security</a>
+- [ ] Create model(s)
+- [ ] create h2 database connection with adequate table(s)
 
