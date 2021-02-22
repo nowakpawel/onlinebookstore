@@ -61,4 +61,5 @@ Forked project written in eclipse. My goal is to learn all required Spring modul
 - [ ] Learn <a href="https://github.com/nowakpawel/SpringSecurity" target="_blank">Spring Security</a>
 - [ ] Create model(s)
 - [ ] create h2 database connection with adequate table(s)
+- [ ] [react.js/ Angular to handle front-end]
 
