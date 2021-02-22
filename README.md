@@ -1,3 +1,13 @@
+Forked project written in eclipse. My goal is to learn all required Spring modules(e.g Spring Security) and rewrite project in intelliJ, using controller, service and repository beans. 
+
+### TODO:
+- [ ] Learn <a href="https://github.com/nowakpawel/SpringSecurity" target="_blank">Spring Security</a>
+- [ ] Create model(s)
+- [ ] create h2 database connection with adequate table(s)
+- [ ] [react.js/ Angular to handle front-end]
+
+<hr>
+
 # OnlineBookStore Website Using Java 
 ### <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Online Book Store</a>
 #### To View Front End Design of this website <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Click Here</a><br>
@@ -54,12 +64,3 @@ Note:- This is a basic Project so we have not think about the security and we ha
                                                                                                         Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
                                                                                                          
-<hr>
-Forked project written in eclipse. My goal is to learn all required Spring modules(e.g Spring Security) and rewrite project in intelliJ, using controller, service and repository beans. 
-
-### TODO:
-- [ ] Learn <a href="https://github.com/nowakpawel/SpringSecurity" target="_blank">Spring Security</a>
-- [ ] Create model(s)
-- [ ] create h2 database connection with adequate table(s)
-- [ ] [react.js/ Angular to handle front-end]
-
